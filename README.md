@@ -1,6 +1,6 @@
 # istanbul_underscore_issue
 
-Demonstration that istanbul ignores files with underscores in numbers.
+Example showing that istanbul ignores files with underscores in numbers.
 
 ## How to run
 
